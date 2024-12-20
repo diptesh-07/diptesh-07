@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Basics of kali          | <a href="https://github.com/diptesh-07/Learn-Kali-Linux-Now"> learn Kali </a>|
+| Active Directory lab | <a href="https://github.com/diptesh-07/Ad-Setup-For-Pentest">Active Directory lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
